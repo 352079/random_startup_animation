@@ -1,0 +1,7 @@
+id=random_startup_animation
+name=随机开机动画
+version=v1.0
+versionCode=1
+author=小雪梨的水真甜
+description="此模块只在红米padse验证过,如果不起效请修改service.sh脚本的最后一行的文件名(我的平板开机动画是使用bootanimation01.zip这个文件),添加壁纸以 数字_*.zip 的格式来命名"
+minMagisk=1600
